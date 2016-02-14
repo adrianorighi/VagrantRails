@@ -21,8 +21,8 @@ Vagrant: Ubuntu 14.04 com ambiente de desenvolvimento Ruby on Rails
 
 ## Como usar
 Faça o download do arquivo "Vagrantfile" e inicie o Vagrant.
-$ wget Vagrantfile (indisponível)
-$ vagrant up
-$ vagrant ssh
+- $ wget Vagrantfile (indisponível)
+- $ vagrant up
+- $ vagrant ssh
 
 ... em desenvolvimento ...
